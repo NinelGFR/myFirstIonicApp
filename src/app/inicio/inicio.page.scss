@@ -1,0 +1,22 @@
+.profile-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.profile-photo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #ccc;
+}
+
+h2 {
+    margin-top: 10px;
+    font-size: 1.5rem;
+}
+
+p {
+    color: #666;
+    font-size: 1rem;
+}
